@@ -49,7 +49,7 @@ A live Markdown editor and previewer built with React. Users can type GitHub-fla
 
 ## 📸 Screenshots
 
-![Screenshot 2025-06-16 140759](https://github.com/user-attachments/assets/a9b54cdb-efa3-49b4-a5db-4d6f5dbb2f66)
+![Screenshot 2025-06-16 140759](https://github.com/user-attachments/assets/6b35ceb5-c3ac-42cf-aa8b-c0b250f91dfa)
 
 ## 📦 Installation
 
