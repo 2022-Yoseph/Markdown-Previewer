@@ -54,7 +54,7 @@ A live Markdown editor and previewer built with React. Users can type GitHub-fla
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/2022-Yoseph//markdown-previewer.git
+git clone https://github.com/2022-Yoseph/Markdown-Previewer.git
 cd markdown-previewer
 open index.html
 ````
